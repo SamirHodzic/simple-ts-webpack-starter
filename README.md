@@ -7,8 +7,8 @@
 
 ## Built on
 
-- [Webpack 2](https://github.com/webpack/webpack)
-- [Typescript 2](https://github.com/Microsoft/TypeScript)
+- [Webpack](https://github.com/webpack/webpack)
+- [Typescript](https://github.com/Microsoft/TypeScript)
 - [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard)
 
 # Getting started
